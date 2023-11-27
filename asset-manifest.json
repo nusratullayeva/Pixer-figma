@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.061e2a18.css",
+    "main.js": "/static/js/main.ae3ccd82.js",
+    "static/media/photo3.png": "/static/media/photo3.8d5f51c6ab46911117a1.png",
+    "static/media/photo1.png": "/static/media/photo1.463d839cfc347e6f56a0.png",
+    "static/media/photo2.png": "/static/media/photo2.0f4383f6fe23bd047a48.png",
+    "static/media/PlusJakartaSans-Regular.ttf": "/static/media/PlusJakartaSans-Regular.8b8f90ab0e945b1e795a.ttf",
+    "index.html": "/index.html",
+    "main.061e2a18.css.map": "/static/css/main.061e2a18.css.map",
+    "main.ae3ccd82.js.map": "/static/js/main.ae3ccd82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.061e2a18.css",
+    "static/js/main.ae3ccd82.js"
+  ]
+}
